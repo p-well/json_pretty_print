@@ -14,11 +14,11 @@ p.a.kadantsev@gmail.com
 To run program use the following commands in CLI:
 
 <pre>
-<b>.python pretty_print.py -p <filepath></b>
+<b>>python pretty_print.py -p <filepath></b>
 
 or
 
-<b>>python pretty_print.py --page <filepath></b>
+<b>>python pretty_print.py --path <filepath></b>
 </pre>
 
 
