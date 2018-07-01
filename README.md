@@ -2,8 +2,7 @@
 
 The purpose if this script is to make pretty print of JSON data.
 
-Data is stored in <i>.json</i> file and you need to specify a path to this file in your system as an argument <br />
-when running script.
+Data is stored in <i>.json</i> file and you need to specify a path to this file in your system as an argument when running script.
 
 
 Pavel Kadantsev, 2018. <br/>
@@ -15,11 +14,11 @@ p.a.kadantsev@gmail.com
 To run program use the following commands in CLI:
 
 <pre>
-<b>python pprint_json.py -p <filepath></b>
+<b>.python pretty_print.py -p <filepath></b>
 
 or
 
-<b>>python pprint_json.py --page <filepath></b>
+<b>>python pretty_print.py --page <filepath></b>
 </pre>
 
 
